@@ -1,5 +1,9 @@
 ﻿{
+<<<<<<< HEAD
 	"version": 1504551440,
+=======
+	"version": 1502732279,
+>>>>>>> 4acf372b78ac305d279702e4df2059f913c15746
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,12 +15,21 @@
 		"images/spersonagem-sheet2.png",
 		"images/sceudaf1-sheet0.png",
 		"images/sgramaf1-sheet0.png",
+<<<<<<< HEAD
 		"images/céumenu-sheet0.png",
 		"images/nuvemcreditos-sheet0.png",
 		"images/fundomenina-sheet0.png",
 		"images/fundomenino-sheet0.png",
 		"images/smenino-sheet0.png",
 		"images/ceucredinst-sheet0.png",
+=======
+		"images/céu-sheet0.png",
+		"images/nuvemcreditos-sheet0.png",
+		"images/nuvemdofundodomenu.png",
+		"images/fundomenina-sheet0.png",
+		"images/fundomenino-sheet0.png",
+		"images/smenino-sheet0.png",
+>>>>>>> 4acf372b78ac305d279702e4df2059f913c15746
 		"images/cartinha-sheet0.png",
 		"images/envelope-sheet0.png",
 		"images/caixademens-sheet0.png",
@@ -43,6 +56,10 @@
 		"images/creator-sheet0.png",
 		"images/criadordecoisasmundana-sheet0.png",
 		"images/sdestroicoisaserradas-sheet0.png",
+<<<<<<< HEAD
+=======
+		"images/sfescolha.png",
+>>>>>>> 4acf372b78ac305d279702e4df2059f913c15746
 		"images/vidavazio-sheet0.png",
 		"images/vida-sheet0.png",
 		"images/coracaofase2-sheet0.png",
@@ -58,6 +75,7 @@
 		"images/menu-sheet0.png",
 		"images/replayv-sheet0.png",
 		"images/menuv-sheet0.png",
+<<<<<<< HEAD
 		"images/botaopulartexto-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/criadordediabinho-sheet0.png",
@@ -89,6 +107,10 @@
 		"images/musica2-sheet0.png",
 		"images/musica2-sheet1.png",
 		"images/sprite7-sheet0.png",
+=======
+		"images/botaodeacelerarv-sheet0.png",
+		"images/sprite-sheet0.png",
+>>>>>>> 4acf372b78ac305d279702e4df2059f913c15746
 		"media/conlisão anjinho.m4a",
 		"media/conlisão anjinho.ogg",
 		"media/jogo anjinho.m4a",
