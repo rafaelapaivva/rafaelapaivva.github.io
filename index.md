@@ -16,7 +16,7 @@ Criando **minha** _pagina_ ~~principal~~
 
 ## Games    
 
-[Jogo 1] (https://elielton90.gitjub.io/Akili/)
+ [Jogo 1] (https://elielton90.github.io/Akili/)
 
 [TEXTO QUE VAI APARECER] (link)
 
