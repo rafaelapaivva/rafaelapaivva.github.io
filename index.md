@@ -21,7 +21,9 @@ Criando **minha** _página_ Data:09/02/2018
 ## Artes
 
 ![Cogumelo](https://gartic.com.br/imgs/mural/jo/jonny77/super-mario-up-mush-pixel-pixel-art-to-aprendendo-daki-a-pouco-mini-3.png)
-![](leaozao.png)
+
+![Leao Lindo](leaozao.png)
+
 ### Aulas  
 
 * * *   
