@@ -16,7 +16,7 @@ Criando **minha** _página_ Data:09/02/2018
 
 ## Games    
 
- ![leao.png](https://elielton90.github.io/Akili/)
+ ![leaozao.png](https://elielton90.github.io/Akili/)
 
 ## Artes
 
