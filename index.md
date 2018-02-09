@@ -16,9 +16,11 @@ Criando **minha** _pagina_ ~~principal~~
 
 ## Games    
 
- [Jogo 1] (https://elielton90.github.io/Akili/)
+ [Jogo 1](https://elielton90.github.io/Akili/)
 
-[TEXTO QUE VAI APARECER] (link)
+## Artes
+
+![Cogumelo](https://gartic.com.br/imgs/mural/jo/jonny77/super-mario-up-mush-pixel-pixel-art-to-aprendendo-daki-a-pouco-mini-3.png)
 
 ### Aulas  
 
