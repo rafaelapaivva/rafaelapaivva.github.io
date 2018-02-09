@@ -24,7 +24,7 @@ Criando **minha** _pagina_ ~~principal~~
 
 * * *   
 
-# OBS:
+# Observações:
 
 ** Negrito  
 __ Itálico  
