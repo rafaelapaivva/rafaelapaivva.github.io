@@ -1,14 +1,12 @@
----
-layout: default
----
 
-Criando **minha** _página_ Data:09/02/2018
+Criando **Minha** _Página_ Data:09/02/2018
 
 * * *   
 
 # Quem sou eu?
 
- Aluna de jodgos aprendendo a fazer um portifólio com professor maravilhoso Marcelo.
+ Aluna de Programação de Jogos Digitais Turma de 2015.1   
+ Aprendendo a fazer um portifólio com professor Marcelo Barros.
 
 * * *   
 
@@ -22,13 +20,11 @@ Criando **minha** _página_ Data:09/02/2018
 
 ![Cogumelo](https://gartic.com.br/imgs/mural/jo/jonny77/super-mario-up-mush-pixel-pixel-art-to-aprendendo-daki-a-pouco-mini-3.png)
 
-![Leao Lindo](leaozao.png)
-
 ### Aulas  
 
 * * *   
 
-# Observações:
+# OBSERVAÇÕES
 
 ** Negrito  
 __ Itálico  
