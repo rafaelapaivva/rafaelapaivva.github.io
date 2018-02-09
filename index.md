@@ -32,7 +32,7 @@ Criando **minha** _página_ Data:09/02/2018
 __ Itálico  
 ~~ Riscado  
 3 * Uma barra
-#s Topicos ou SubTopicos
+#s Topicos ou SubTopicos  
 *' Adiciona lista nao ordenada   
 1s Criam listas ordenadas
 
