@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Criando **minha** _pagina_ ~~principal~~
+Criando **minha** _página_ Data:09/02/2018
 
 * * *   
 
