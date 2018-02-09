@@ -16,12 +16,12 @@ Criando **minha** _página_ Data:09/02/2018
 
 ## Games    
 
-[Jogo 1](https://elielton90.github.io/Akili/)
+[![](leaozao.png)](https://elielton90.github.io/Akili/)
 
 ## Artes
 
 ![Cogumelo](https://gartic.com.br/imgs/mural/jo/jonny77/super-mario-up-mush-pixel-pixel-art-to-aprendendo-daki-a-pouco-mini-3.png)
-
+![](leaozao.png)
 ### Aulas  
 
 * * *   
