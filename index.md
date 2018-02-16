@@ -18,36 +18,34 @@
 
 Jogo 1 - Equivalente pra avaliaçao do 1º Bimestre
 
-Tema: Cultura 
-Plataforma
+Tema: Cultura  
+Plataforma  
 
-Islanne Monteiro
-Rafaela Paiva 
+Islanne Monteiro  
+Rafaela Paiva   
 
 [Sky or Hell]
 
 [![](SoH.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
 
-Jogo 2 - Equivalente pra avaliaçao do 2º Bimestre
+Jogo 2 - Equivalente pra avaliaçao do 2º Bimestre  
 
-Tema: Mensagem 
-Point Click
+Tema: Mensagem   
+Point Click  
 
-Maria Luiza Torres
-Rafaela Paiva 
+Maria Luiza Torres  
+Rafaela Paiva   
 
 [Random Quiz]
 
-[![](RQ.png)](https://jadsamiamedeiros.github.io/randomquiz/)  
+[![](RQ.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
 
-Jogo 3 - Equivalente pra avaliaçao do 3º Bimestre
+Jogo 3 - Equivalente pra avaliaçao do 3º Bimestre  
 
-Tema: Livre
+Tema: Livre  
 
-Islanne Monteiro
-Jadsamia Medeiros
-Rafaela Paiva
+Islanne Monteiro  
+Jadsamia Medeiros  
+Rafaela Paiva  
 
 * * *   
-
-islanne e feia
