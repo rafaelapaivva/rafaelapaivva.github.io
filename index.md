@@ -16,7 +16,8 @@
 
 [![](SoH.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
 
-[![](RQ.png)](https://jadsamiamedeiros.github.io/randomquiz/)
+
+[![](RQ.png)](https://jadsamiamedeiros.github.io/randomquiz/)  
 
 
 * * *   
