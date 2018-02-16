@@ -24,6 +24,7 @@ Plataforma
 Islanne Monteiro
 Rafaela Paiva 
 
+[Sky or Hell]
 
 [![](SoH.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
 
@@ -35,6 +36,7 @@ Point Click
 Maria Luiza Torres
 Rafaela Paiva 
 
+[Random Quiz]
 
 [![](RQ.png)](https://jadsamiamedeiros.github.io/randomquiz/)  
 
