@@ -1,12 +1,11 @@
 
-Criando **Minha** _Página_ Data:09/02/2018
-
 * * *   
 
 # Quem sou eu?
 
- Aluna de Programação de Jogos Digitais Turma de 2015.1   
- Aprendendo a fazer um portifólio com professor Marcelo Barros.
+ Rafaela Paiva das Chagas
+ Aluna do IFRN-Campus Cearpá-Mirim do curso de Programação de Jogos Digitais  
+ 3º Ano Vespertino
 
 * * *   
 
@@ -14,13 +13,8 @@ Criando **Minha** _Página_ Data:09/02/2018
 
 ## Games    
 
-[![](leaozao.png)](https://elielton90.github.io/Akili/)
+[![](SoH.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)
 
-## Artes
-
-![Cogumelo](https://gartic.com.br/imgs/mural/jo/jonny77/super-mario-up-mush-pixel-pixel-art-to-aprendendo-daki-a-pouco-mini-3.png)
-
-### Aulas  
 
 * * *   
 
