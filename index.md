@@ -3,11 +3,11 @@
 * * *  
 
 # Quem sou eu?
- 
+ 19 anos, RN
  Aluna do IFRN-Campus Ceará-Mirim  
  Curso de Programação de Jogos Digitais  
- 3º Ano Vespertino
-2017.2
+ 3º Ano Vespertino  
+ 2017.2
 
 * * *   
 * * * 
