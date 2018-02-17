@@ -14,9 +14,10 @@
 
 ## Games    
 
-[![]()]()  
 
-[RAÍS](https://...)
+### [RAÍS](https://...)  
+
+[![]()]()  
 
 Jogo 1 - Equivalente para avaliaçao do 1º Bimestre
 
@@ -27,7 +28,7 @@ Islanne Monteiro
 Rafaela Paiva  
   
 
-[Sky or Hell]()
+### [Sky or Hell]()
 
 [![](SoH.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
 
@@ -40,7 +41,7 @@ Maria Luiza Torres
 Rafaela Paiva   
 
   
-[Random Quiz]()
+### [Random Quiz]()
 
 [![](RQ.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
 
