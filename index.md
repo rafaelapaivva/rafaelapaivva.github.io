@@ -8,6 +8,7 @@
  Aluna do IFRN-Campus Ceará-Mirim  
  Curso de Programação de Jogos Digitais  
  3º Ano Vespertino
+2017.2
 
 * * *   
 * * * 
