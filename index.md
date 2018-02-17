@@ -1,4 +1,4 @@
-
+* * *   
 * * *   
 
 # Quem sou eu?
@@ -9,6 +9,7 @@
  3º Ano Vespertino
 
 * * *   
+* * * 
 
 # Portifólio  
 
@@ -53,4 +54,5 @@ Islanne Monteiro
 Jadsamia Medeiros  
 Rafaela Paiva  
 
+* * *   
 * * *   
