@@ -24,7 +24,8 @@ Tema: Cultura
 Plataforma  
 
 Islanne Monteiro  
-Rafaela Paiva   
+Rafaela Paiva  
+  
 
 [Sky or Hell]()
 
@@ -38,7 +39,8 @@ Point Click
 Maria Luiza Torres  
 Rafaela Paiva   
 
-[Random Quiz]?()
+  
+[Random Quiz]()
 
 [![](RQ.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
 
