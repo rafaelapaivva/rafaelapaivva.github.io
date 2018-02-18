@@ -3,7 +3,7 @@
 * * *  
 
 # Quem sou eu?
- 19 anos, RN  
+ 19 anos, Rio Grande do Norte - Brasil. 
  Aluna do IFRN-Campus Ceará-Mirim  
  Curso de Programação de Jogos Digitais  
  3º Ano Vespertino  
