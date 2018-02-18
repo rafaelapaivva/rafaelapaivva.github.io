@@ -17,7 +17,7 @@
 
 [![]()]()  
 
-Jogo 1 - Equivalente para avaliaçao do 1º Bimestre
+Jogo 1  
 
 Tema: Cultura  
 Plataforma  
@@ -31,7 +31,7 @@ Rafaela Paiva
 
 [![](SoH.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
 
-Jogo 2 - Equivalente para avaliaçao do 2º Bimestre  
+Jogo 2    
 
 Tema: Mensagem   
 Point Click  
@@ -45,7 +45,7 @@ Rafaela Paiva
 
 [![](RQ.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
 
-Jogo 3 - Equivalente para avaliaçao do 3º Bimestre  
+Jogo 3    
 
 Tema: Livre  
 
