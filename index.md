@@ -1,7 +1,8 @@
 # QUEM SOU EU?
- 19 anos, Rio Grande do Norte - Brasil  
+ 
  Aluna do IFRN-Campus Ceará-Mirim  
  Curso de Programação de Jogos Digitais  
+ 19 anos, Rio Grande do Norte - Brasil
  3º Ano Vespertino  
  2017.2  
 
@@ -23,7 +24,7 @@ Plataforma
 Islanne Monteiro  
 Rafaela Paiva  
   
-* * *  
+
 
 ### [Sky or Hell]()
 
@@ -37,7 +38,7 @@ Point Click
 Maria Luiza Torres  
 Rafaela Paiva   
 
-* * *  
+  
 
 ### [Random Quiz]()
 
@@ -51,17 +52,17 @@ Islanne Monteiro
 Jadsamia Medeiros  
 Rafaela Paiva  
 
-* * *   
+   
 
 # CONTATOS  
 
 * * *  
 ## Facebook  
-
-* * *  
+ 
+ 
 ## Instagram 
 
-* * *  
+  
 ## Email  
 
 * * *   
