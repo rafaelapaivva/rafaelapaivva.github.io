@@ -1,24 +1,15 @@
-* * *   
-* * * 
-* * *  
-
 # Quem sou eu?
  19 anos, Rio Grande do Norte - Brasil  
  Aluna do IFRN-Campus Ceará-Mirim  
  Curso de Programação de Jogos Digitais  
  3º Ano Vespertino  
- 2017.2
-
-* * *   
-* * * 
-* * *  
+ 2017.2  
 
 # Portifólio  
 
 * * *  
-* * *  
+  
 ## Games   
-* * *
 
 ### [RAÍS](https://...)  
 
@@ -61,8 +52,6 @@ Jadsamia Medeiros
 Rafaela Paiva  
 
 * * *   
-* * *   
-* * *  
 
 # Contatos  
 
@@ -76,6 +65,3 @@ Rafaela Paiva
 ## Email  
 
 * * *   
-* * *   
-* * *   
-
