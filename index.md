@@ -15,7 +15,7 @@
 
 ### [RAÍS]()  
 
-[![RAIS.png]()](https://rafaelapaivva.github.io/Rais/index)  
+[![](RAIS.png)](https://rafaelapaivva.github.io/Rais/index)  
 
 Jogo 1  
 
