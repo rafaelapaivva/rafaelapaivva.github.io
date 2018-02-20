@@ -31,7 +31,7 @@ Rafaela Paiva
 
 ### [Sky or Hell]()
 
-[![](SOH100X80.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
+[![](SOH300X240.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
 
 Jogo 2    
 
@@ -45,7 +45,7 @@ Rafaela Paiva
 
 ### [Random Quiz]()
 
-[![](RQ100X80.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
+[![](RQ300X240.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
 
 Jogo 3    
 
