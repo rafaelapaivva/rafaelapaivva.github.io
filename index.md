@@ -1,7 +1,7 @@
 # QUEM SOU EU?
 * * * 
 
-![](RaFa.png)  
+![RAFAELA.png](RAFAELA.png)  
 
  Aluna do IFRN-Campus Ceará-Mirim  
  Curso de Programação de Jogos Digitais  
