@@ -63,9 +63,9 @@ Rafaela Paiva
 ## Facebook  
  
  
-## Instagram 
+## ![](INSTA30.png) Instagram 
   
-[![](INSTA30.png)](https://www.instagram.com/rafaellapaivva/)
+[](https://www.instagram.com/rafaellapaivva/)
   
 ## Email  
 
