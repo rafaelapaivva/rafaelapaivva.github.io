@@ -63,14 +63,14 @@ Rafaela Paiva
 
 ## Facebook  
   
-[![](FACEBOOK30.png)]  
+[![](FACEBOOK30.png)](https://www.facebook.com/rafaelapaivva) (facebook.com/rafaelapaivva) 
  
 ## Instagram 
   
-[![](INSTA30.png)](https://www.instagram.com/rafaellapaivva/) (https://www.instagram.com/rafaellapaivva/)  
+[![](INSTA30.png)](https://www.instagram.com/rafaellapaivva/) (instagram.com/rafaellapaivva/)  
   
 ## Email  
   
-[![](GMAIL30.png)]  
+[![](GMAIL30.png)](https://mail.google.com/mail/u/0/#inbox) (rafaelapaivva@gmail.com) 
   
 * * *   
