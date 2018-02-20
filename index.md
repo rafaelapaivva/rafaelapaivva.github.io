@@ -17,7 +17,7 @@
 
 ### [RAÍS]()  
 
-[![](RAIS100X80.png)](https://rafaelapaivva.github.io/Rais/index)  
+[![](RAIS300X240.png)](https://rafaelapaivva.github.io/Rais/index)  
 
 Jogo 1  
 
