@@ -45,7 +45,7 @@ Rafaela Paiva
 
 ### [Random Quiz]()
 
-[![](RQ300X150.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
+[![](RQ100X80.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
 
 Jogo 3    
 
