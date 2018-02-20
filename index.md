@@ -1,6 +1,8 @@
 # QUEM SOU EU?
 * * * 
 
+![](RaFa.png)  
+
  Aluna do IFRN-Campus Ceará-Mirim  
  Curso de Programação de Jogos Digitais  
  19 anos, Rio Grande do Norte - Brasil  
