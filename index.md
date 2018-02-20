@@ -17,7 +17,8 @@
 
 ### [RAÍS]()  
 
-[![](RAIS300X240.png)](https://rafaelapaivva.github.io/Rais/index)  
+[![](RAIS300X240.png)](https://rafaelapaivva.github.io/Rais/index)    
+(https://rafaelapaivva.github.io/Rais/index)
 
 Jogo 1  
 
@@ -32,6 +33,7 @@ Rafaela Paiva
 ### [Sky or Hell]()
 
 [![](SOH300X240.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
+(https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
 
 Jogo 2    
 
@@ -45,7 +47,8 @@ Rafaela Paiva
 
 ### [Random Quiz]()
 
-[![](RD300X240.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
+[![](RD300X240.png)](https://jadsamiamedeiros.github.io/randomquiz/)  
+(https://jadsamiamedeiros.github.io/randomquiz/)  
 
 Jogo 3    
 
@@ -63,14 +66,14 @@ Rafaela Paiva
 
 ## Facebook  
   
-[![](FACEBOOK30.png)](https://www.facebook.com/rafaelapaivva) facebook.com/rafaelapaivva 
+[![](FACEBOOK30.png)](https://www.facebook.com/rafaelapaivva)   facebook.com/rafaelapaivva 
  
 ## Instagram 
   
-[![](INSTA30.png)](https://www.instagram.com/rafaellapaivva/) instagram.com/rafaellapaivva/  
+[![](INSTA30.png)](https://www.instagram.com/rafaellapaivva/)   instagram.com/rafaellapaivva/  
   
 ## Email  
   
-[![](GMAIL30.png)](https://mail.google.com/mail/u/0/#inbox) rafaelapaivva@gmail.com  
+[![](GMAIL30.png)](https://mail.google.com/mail/u/0/#inbox)   rafaelapaivva@gmail.com  
   
 * * *   
