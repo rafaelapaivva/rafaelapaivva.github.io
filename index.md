@@ -45,7 +45,7 @@ Rafaela Paiva
 
 ### [Random Quiz]()
 
-[![](RQ.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
+[![](RQ100X80.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
 
 Jogo 3    
 
@@ -62,12 +62,15 @@ Rafaela Paiva
 * * *  
 
 ## Facebook  
- 
+  
+[![](FACEBOOK30.png)]  
  
 ## Instagram 
   
-[![](INSTA30.png)](https://www.instagram.com/rafaellapaivva/) https://www.instagram.com/rafaellapaivva/
+[![](INSTA30.png)](https://www.instagram.com/rafaellapaivva/) https://www.instagram.com/rafaellapaivva/  
   
 ## Email  
-
+  
+[![](GMAIL30.png)]  
+  
 * * *   
