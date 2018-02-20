@@ -31,7 +31,7 @@ Rafaela Paiva
 
 ### [Sky or Hell]()
 
-[![](SoH.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
+[![](SOH100X80.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
 
 Jogo 2    
 
