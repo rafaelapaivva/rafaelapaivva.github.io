@@ -20,7 +20,9 @@
 [![](RAIS300X240.png)](https://rafaelapaivva.github.io/Rais/index)    
 https://rafaelapaivva.github.io/Rais/index
 
-Jogo 1  
+Jogo 1    
+  
+Conta a história de um índio, chamado Raís, que para chegar a sua oca tem que enfrentar os perigos da natureza e no meio do caminho recolher frutas. Ajude Raís a voltar para casa!    
 
 Tema: Cultura  
 Plataforma  
@@ -35,7 +37,9 @@ Rafaela Paiva
 [![](SOH300X240.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
 https://rafaelapaivva.github.io/JogoSkyOrHelll/  
 
-Jogo 2    
+Jogo 2     
+  
+Nos iremos recolher os envelopes do anjo para poder receber as mensagens de Deus, na primeira fase. Na fase seguinte iremos seguir o conselho da cartinha e resistir as provações, recolhendo assim so o amor. Na terceira  e ultima fase o diabinho estara representando o mal e vamos ter que elimina-lo. Venha nos ajudar nessa missão!!   
 
 Tema: Mensagem   
 Point Click  
@@ -51,7 +55,9 @@ Rafaela Paiva
 https://jadsamiamedeiros.github.io/randomquiz/  
 
 Jogo 3    
-
+  
+Jogo de perguntas e respostas, e pegadinhas. kkkk   
+  
 Tema: Livre  
 
 Islanne Monteiro  
