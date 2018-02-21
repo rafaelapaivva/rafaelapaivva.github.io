@@ -25,9 +25,9 @@ Conta a história de um índio, chamado Raís, que para chegar em sua oca tem qu
 
 Tema: Cultura 
 
-Plataforma 
-![Setas50.png](Setas50.png)  ![Espaço50.png](Espaço50.png)  
-
+Plataforma   
+![Setas50.png](Setas50.png)  ![Espaço50.png](Espaço50.png)    
+  
 Islanne Monteiro  
 Rafaela Paiva  
   
@@ -44,7 +44,7 @@ Devemos recolher os envelopes do anjo para poder receber as mensagens de Deus, n
 Tema: Mensagem   
 
 Point Click  
-![Touch50.png](Touch50.png) ![Mouse50.png](Mouse50.png)
+![Touch50.png](Touch50.png) ![Mouse50.png](Mouse50.png)  
   
 Maria Luiza Torres  
 Rafaela Paiva   
@@ -63,7 +63,7 @@ E pegadinhas... kkkkk
 Tema: Livre  
 
 Point Click  
-![Touch50.png](Touch50.png) ![Mouse50.png](Mouse50.png)  
+![Touch50.png](Touch50.png) ![Mouse50.png](Mouse50.png)   
 
 Islanne Monteiro  
 Jadsamia Medeiros  
