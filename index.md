@@ -20,13 +20,13 @@
 [![](RAIS300X240.png)](https://rafaelapaivva.github.io/Rais/index)    
 
 Jogo 1  
-![Setas50.png](Setas50.png)  ![Espaço50.png](Espaço50.png)
   
 Conta a história de um índio, chamado Raís, que para chegar em sua oca tem que enfrentar os perigos da natureza, e recolher frutas.    Ajude Raís a voltar para casa!    
 
 Tema: Cultura 
 
-Plataforma  
+Plataforma 
+![Setas50.png](Setas50.png)  ![Espaço50.png](Espaço50.png)  
 
 Islanne Monteiro  
 Rafaela Paiva  
