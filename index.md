@@ -62,6 +62,9 @@ E pegadinhas... kkkkk
   
 Tema: Livre  
 
+Point Click  
+![Touch50.png](Touch50.png) ![Mouse50.png](Mouse50.png)  
+
 Islanne Monteiro  
 Jadsamia Medeiros  
 Rafaela Paiva  
