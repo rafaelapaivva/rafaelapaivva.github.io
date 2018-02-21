@@ -19,7 +19,8 @@
 
 [![](RAIS300X240.png)](https://rafaelapaivva.github.io/Rais/index)    
 
-Jogo 1    
+Jogo 1  
+![Setas50.png](Setas50.png)  ![Espaço50.png](Espaço50.png)
   
 Conta a história de um índio, chamado Raís, que para chegar em sua oca tem que enfrentar os perigos da natureza, e recolher frutas.    Ajude Raís a voltar para casa!    
 
@@ -43,7 +44,7 @@ Devemos recolher os envelopes do anjo para poder receber as mensagens de Deus, n
 Tema: Mensagem   
 
 Point Click  
-![Touch30.png](Touch30.png)
+![Touch30.png](Touch30.png)  ![Mouse50.png](Mouse50.png)
   
 Maria Luiza Torres  
 Rafaela Paiva   
