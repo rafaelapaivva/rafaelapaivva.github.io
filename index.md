@@ -21,7 +21,7 @@
 
 Jogo 1    
   
-Conta a história de um índio, chamado Raís, que para chegar em sua oca tem que enfrentar os perigos da natureza, e recolher frutas. Ajude Raís a voltar para casa!    
+Conta a história de um índio, chamado Raís, que para chegar em sua oca tem que enfrentar os perigos da natureza, e recolher frutas.    Ajude Raís a voltar para casa!    
 
 Tema: Cultura  
 Plataforma  
