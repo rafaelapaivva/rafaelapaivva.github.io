@@ -23,7 +23,8 @@ Jogo 1
   
 Conta a história de um índio, chamado Raís, que para chegar em sua oca tem que enfrentar os perigos da natureza, e recolher frutas.    Ajude Raís a voltar para casa!    
 
-Tema: Cultura  
+Tema: Cultura 
+
 Plataforma  
 
 Islanne Monteiro  
@@ -40,8 +41,10 @@ Jogo 2
 Devemos recolher os envelopes do anjo para poder receber as mensagens de Deus, na primeira fase. Na fase seguinte, iremos seguir o conselho da cartinha e resistir as provações, recolhendo assim apenas o amor. Na terceira e última fase, o diabinho estará representando o mal e vamos ter que elimina-ló. Venha nos ajudar nessa missão!!   
 
 Tema: Mensagem   
-Point Click  
 
+Point Click  
+![Touch30.png](Touch30.png)
+  
 Maria Luiza Torres  
 Rafaela Paiva   
 
