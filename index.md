@@ -44,7 +44,7 @@ Devemos recolher os envelopes do anjo para poder receber as mensagens de Deus, n
 Tema: Mensagem   
 
 Point Click  
-![Touch50.png](Touch50.png)  ![Mouse50.png](Mouse50.png)
+![Touch50.png](Touch50.png) ![Mouse50.png](Mouse50.png)
   
 Maria Luiza Torres  
 Rafaela Paiva   
@@ -83,5 +83,5 @@ Rafaela Paiva
 ## Email  
   
 [![](GMAIL30.png)](https://mail.google.com/mail/u/0/#inbox)   rafaelapaivva@gmail.com  
-  
+     
 * * *     
