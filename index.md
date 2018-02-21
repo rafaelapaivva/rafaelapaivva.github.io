@@ -18,7 +18,6 @@
 ### [RAÍS]()  
 
 [![](RAIS300X240.png)](https://rafaelapaivva.github.io/Rais/index)    
-https://rafaelapaivva.github.io/Rais/index
 
 Jogo 1    
   
@@ -34,8 +33,7 @@ Rafaela Paiva
 
 ### [Sky or Hell]()
 
-[![](SOH300X240.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)  
-https://rafaelapaivva.github.io/JogoSkyOrHelll/  
+[![](SOH300X240.png)](https://rafaelapaivva.github.io/JogoSkyOrHelll/)   
 
 Jogo 2     
   
@@ -51,8 +49,7 @@ Rafaela Paiva
 
 ### [Random Quiz]()
 
-[![](RD300X240.png)](https://jadsamiamedeiros.github.io/randomquiz/)  
-https://jadsamiamedeiros.github.io/randomquiz/  
+[![](RD300X240.png)](https://jadsamiamedeiros.github.io/randomquiz/)    
 
 Jogo 3    
   
